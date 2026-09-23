@@ -558,5 +558,3 @@ B.Tech Computer Science & Engineering (AI/ML)
 ## 24. License
 
 This project is intended for educational and research purposes.
-
-Add an appropriate open-source license if the repository is intended for public distribution.
