@@ -329,7 +329,7 @@ Important parameters include:
 ### Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone <https://github.com/SarthMadaan001/Flappy-Bird-Game.git>
 cd Flappy_Bird_Game
 ```
 
